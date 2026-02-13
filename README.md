@@ -1,3 +1,3 @@
-## Super Site
+# Super Site
 
-# Un petit site Chiikawa pour la Saint Valentin.
+## Un petit site Chiikawa pour la Saint Valentin.
