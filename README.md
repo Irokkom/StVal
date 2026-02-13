@@ -1,3 +1,3 @@
 # Super Site
 
-## Un petit site Chiikawa pour la Saint Valentin.
+## A small Chiikawa webpage to propose to your valentine.
